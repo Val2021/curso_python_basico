@@ -1,3 +1,7 @@
+'''
+Exemplos de funções com tuplas
+'''
+
 
 '''
 3- Construindo um dicionário
